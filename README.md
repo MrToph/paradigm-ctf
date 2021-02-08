@@ -2,6 +2,8 @@
 
 My solutions for [Paradigm CTF 2021](https://ctf.paradigm.xyz/).
 
+> 📚 Writeup: [https://cmichel.io/paradigm-ctf-2021-solutions/](https://cmichel.io/paradigm-ctf-2021-solutions/)
+
 Solved Challenges:
 
 - [x] Babycrypto
